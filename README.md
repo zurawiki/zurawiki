@@ -1,5 +1,3 @@
-![Metrics](/github-metrics.svg)
-
 ![Header](/header.svg)
 
 ![Calendar](/iso_calendar.svg)
